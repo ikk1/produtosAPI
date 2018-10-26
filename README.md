@@ -1,1 +1,1 @@
-API para fins acadêmicos
+API Restful para CRUD de produtos
